@@ -34,3 +34,9 @@ dotnet user-secrets init
 dotnet user-secrets set "the-secret" "This is the local secret"
 ```
 
+Some Useful links:
+ - [Dependency Injection in Function Apps](https://docs.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection)
+ - [Integrate Key Vault with Azure Functions](https://daniel-krzyczkowski.github.io/Integrate-Key-Vault-Secrets-With-Azure-Functions/)
+ - [User Secrets on Function App](https://dev.to/cesarcodes/using-json-and-user-secrets-configuration-with-azure-functions-3f7g)
+ 
+
